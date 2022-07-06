@@ -6,9 +6,10 @@ body{
         width: 100%;
         height:700px;
         background-size: cover;
-        
-          
-    
+        margin-bottom: 700px; 
+}
+.sec-two{
+    margin-top: 220px;
 }
 
 .donate-button{
@@ -22,7 +23,7 @@ body{
 }
 .center-align{
     text-align: center;
-    width: 300px;
+    width: 500px;
 }
 
 section{
@@ -31,9 +32,11 @@ section{
 }
 .one{
     font-family: serif;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: xx-large;
     font-weight: 700;
+    text-align: center;
+    width: 500px;
 }
 .black {
     color: black;
@@ -123,4 +126,15 @@ footer{
     color: aliceblue;
     text-align: center;
     
+}
+.paddingd{
+    text-align: center;
+}
+.email-div{
+    background-color: blanchedalmond;
+    height: 150px;
+    width: 500px;
+    display: flex; 
+    align-items: center;
+    padding-left: 100px;  
 }
